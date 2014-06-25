@@ -1,5 +1,5 @@
-<ul>
-{{#each}}
-  <li>{{this}}</li>
-{{/each}}
-</ul>
+{{input placeholder="Username" value=id}}
+<!-- {{id}} -->
+{{#link-to 'users' id}}
+  <button>Open</button>
+{{/link-to}}
