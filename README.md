@@ -1,6 +1,11 @@
-#EAK- Starter Template 
+#extending-rest-adapter 
 
 ###What?
-A thin addition over default [EAK](https://github.com/stefanpenner/ember-app-kit) repository with commmonly used additions.Mostly for personal convenience.
+A simple demonstration of extending the default Ember RestAdapter. 
+This will use the Github api to create a simple viewer.
 
-Right now, branch master has Bootstrap 3 and Font-Awesome added. More to be added.
+###Demo
+Coming Soon
+
+###License
+MIT
